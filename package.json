@@ -1,0 +1,14 @@
+{
+  "name": "natours-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Ivan Vezhnavets",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
